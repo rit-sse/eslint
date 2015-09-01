@@ -1,0 +1,26 @@
+{
+  "name": "sse-eslint",
+  "version": "1.0.0",
+  "description": "Our eslintrcs",
+  "main": "index.js",
+  "contributors": [
+    {
+      "name": "Kristen Mills",
+      "email": "kristen@kristen-mills.com"
+    },
+    {
+      "name": "John Renner",
+      "email": "john@jrenner.net"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rit-sse/eslint.git"
+  },
+  "author": "Society of Software Engineers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rit-sse/eslint/issues"
+  },
+  "homepage": "https://github.com/rit-sse/eslint#readme"
+}

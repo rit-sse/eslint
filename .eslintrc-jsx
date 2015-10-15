@@ -31,8 +31,7 @@
     # Enforce quote style for JSX attributes
     jsx-quotes:
       - 2
-      - single
-      - avoid-escape
+      - prefer-single
     # Enforce propTypes declarations alphabetical sorting
     react/jsx-sort-prop-types: 0
     # Enforce props alphabetical sorting

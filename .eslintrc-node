@@ -369,7 +369,7 @@
       - 2
       - never
     #require or disallow spaces inside parentheses
-    space-in-parens: 0
+    space-in-parens: 1
     #require spaces around operators
     space-infix-ops: 0
     #require a space after return throw and case

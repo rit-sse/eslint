@@ -4,8 +4,9 @@
     es6: true
     browser: true
 
-  ecmaFeatures:
-    jsx: true
+  parserOptions:
+    ecmaFeatures:
+      jsx: true
 
   plugins:
     - react

@@ -1,5 +1,5 @@
 ---
-  extends: ./.eslintrc-node
+  extends: ./node.yml
   parser: babel-eslint
   env:
     node: true

@@ -1,6 +1,7 @@
 module.exports = {
   extends: [
     'airbnb-base',
+    'sse/lib/common',
   ],
   env:  {
     node: true,
@@ -8,13 +9,5 @@ module.exports = {
   },
   ecmaFeatures: {
     es6: true,
-  },
-  plugins: [
-    'prefer-object-spread',
-  ],
-  rules: {
-    'comma-dangle': ['error', 'always-multiline'],
-    'max-len': 'off',
-    'prefer-object-spread/prefer-object-spread': 'error',
   },
 };

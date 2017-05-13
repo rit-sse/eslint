@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
     'airbnb',
-    'sse/base',
+    'sse/lib/common',
   ],
   env:  {
     node: true,
